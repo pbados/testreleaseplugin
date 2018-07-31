@@ -5,7 +5,7 @@
 
   <groupId>testmavenreleaseplugin</groupId>
   <artifactId>testmavenreleaseplugin</artifactId>
-  <version>1.0.4</version>
+  <version>1.0.5-SNAPSHOT</version>
 
   <name>testmavenreleaseplugin</name>
   <!-- FIXME change it to the project's website -->
@@ -69,7 +69,7 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/pbados/testreleaseplugin</developerConnection>
-    <tag>Release.1.0.4</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
